@@ -1,0 +1,30 @@
+{
+    "name": "jeffergonzalez/task-app",
+    "description": "Task App. Initial project for rest/api with PHP-8",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jefferson David Gonzalez Cely",
+            "email": "jefferd2016@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require":{
+    "php": ">=8.0",
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "ext-intl": "*",
+    "vlucas/phpdotenv": "^3.6"
+    },
+    "autoload": {
+    "psr-4": {
+        "App\\" : "app/"
+    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
