@@ -14,7 +14,7 @@ Developed with PHP-8. (*In development*)
     - [Pre-requirements 📋](#pre-requirements-)
     - [DataBase-Management-System](#DBMS)
     - [Installation 🔧](#installation-)
-  - [Deployment 📦](#deployment-)
+  - [Use 📌](#use-)
   - [Built with 🛠️](#built-with-️)
 
 
